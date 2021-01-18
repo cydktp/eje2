@@ -1,3 +1,52 @@
+body{
+    background-color: rgb(216, 186, 110);
+}
+
 header{
     text-align: center;
 }
+
+img.img1{
+    height: 8%;
+    width: 8%;
+}
+
+p.uno{
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+img.img2{
+    float: left;
+    position: relative;
+    top: 20px;
+}
+
+section.uno{
+    background-color: white;
+   height: 200px;
+   width: 100%;
+  
+}
+
+article.uno{
+    position: relative;
+    top: 50px;
+}
+img.img3{
+    float: right;
+    height: 70%;
+    width: 20%;
+    position: relative;
+    top: 20px;
+}
+section.dos{
+    background-color: steelblue;
+   height: 200px;
+   width: 100%;
+  
+}
+footer{
+    text-align: center;
+}
+
